@@ -1,0 +1,20 @@
+body {
+    text-align : center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(137, 195, 246);
+}
+
+#number {
+    font-size: 360px;
+    border: 15px groove rgb(0, 234, 255);
+}
+
+#dice:hover {
+    cursor: pointer;
+}
+
+.size {
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+}  
