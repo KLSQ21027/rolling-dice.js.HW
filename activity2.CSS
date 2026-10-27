@@ -9,7 +9,7 @@ body {
     border: 15px groove rgb(0, 234, 255);
 }
 
-#dice:hover {
+#number:hover {
     cursor: pointer;
 }
 
