@@ -4,7 +4,7 @@ var stopped = true;
 var t;
 
 function change() {
-    var random = Math.floor(Math.random()*6);
+    var random = Math.floor(Math.random()*10);
     number.innerHTML = numbers[random];
 }
 
